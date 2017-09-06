@@ -1,0 +1,28 @@
+### Bits
+byte = [bytes]
+kilobytes = 2^10*byte = KB
+megabytes = 2^20*byte = MB
+gigabytes = 2^30*byte = GB
+terabytes = 2^40*byte = TB
+bit = byte/8
+kilobits = 2^10*bit = kb
+megabits = 2^20*bit = mb
+gigabits = 2^30*bit = gb
+terabits = 2^40*bit = tb
+
+### Count
+lakh- = 1e5
+million- = 1e6
+billion- = 1e9
+trillion- = 1e12
+
+### Operations
+ops = []
+
+## Time
+#second = [time] = s = sec
+hour = 60 * minute = h = hr
+minute = 60 * second = min
+nanosec = pow(10,-9)*second = ns
+picosec = pow(10,-12)*second = ps
+
