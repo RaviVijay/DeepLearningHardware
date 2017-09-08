@@ -4,11 +4,11 @@ kilobytes = 2^10*byte = KB
 megabytes = 2^20*byte = MB
 gigabytes = 2^30*byte = GB
 terabytes = 2^40*byte = TB
-bit = byte/8
-kilobits = 2^10*bit = kb
-megabits = 2^20*bit = mb
-gigabits = 2^30*bit = gb
-terabits = 2^40*bit = tb
+bits = byte/8
+kilobits = 2^10*bits = kb
+megabits = 2^20*bits = mb
+gigabits = 2^30*bits = gb
+terabits = 2^40*bits = tb
 
 ### Count
 lakh- = 1e5
@@ -18,6 +18,8 @@ trillion- = 1e12
 
 ### Operations
 ops = []
+flops = []
+macs = []
 
 ## Time
 #second = [time] = s = sec
